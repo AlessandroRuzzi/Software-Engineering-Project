@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/alexruzzi98/Software-Engineering-Project.svg?branch=master)](https://travis-ci.com/alexruzzi98/Software-Engineering-Project)
 ## Group members
 - [__Luigi Scibona__](https://github.com/Sciluxor) as Scilux/Sciluxor
 - [__Alessandro Ruzzi__](https://github.com/alexruzzi98) as alexruzzi98
